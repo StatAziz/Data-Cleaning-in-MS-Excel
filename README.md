@@ -1,7 +1,6 @@
+![cover pic](Image/cover.gif)
 
 # Data Cleaning in MS Excel
-
-## Data Professional | Passionate About Data-Driven Insights and Problem Solving
 
 When working with datasets in MS Excel, I understand that data cleaning is crucial to ensuring accuracy and consistency in data analysis. The dataset I worked with contains the following variables: `Date`, `Client`, `Contact`, `Department`, `Payment`, `Revenue`, `Profit`, and `Profit Margin`. In this project, I utilized various Excel features and shortcuts to perform a series of tasks, effectively cleaning and organizing the data.
 
@@ -108,8 +107,8 @@ Finally, I removed gridlines to improve the visual presentation of the data:
 
 ## Dataset Snapshots
 
-- **Before Cleaning**: ![Before Cleaning](path_to_image_before)
-- **After Cleaning**: ![After Cleaning](path_to_image_after)
+- **Before Cleaning**: ![Before Cleaning](Image/before.PNG)
+- **After Cleaning**: ![After Cleaning](Image/after.PNG)
 
 ## Conclusion
 
